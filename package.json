@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/platzi/async-landing/issues"
   },
-  "homepage": "https://github.com/platzi/async-landing#readme"
+  "homepage": "https://github.com/platzi/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
